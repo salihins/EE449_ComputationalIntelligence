@@ -1,5 +1,6 @@
 # EE449_ComputationalIntelligence
 Projects to create Neural Networks to compute given tasks, written in Python
+
 --- Project 1 ---
 
 In this homework, you will perform experiments on artificial neural network (ANN) training and draw
